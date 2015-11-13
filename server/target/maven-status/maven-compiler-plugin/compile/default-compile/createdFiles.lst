@@ -1,0 +1,4 @@
+dao\api\IUserDao.class
+manager\impl\UserManager.class
+manager\api\IUserManager.class
+dao\impl\UserDao.class

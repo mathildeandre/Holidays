@@ -1,0 +1,20 @@
+# exclude specific gitignore
+*/.gitignore
+
+# exclude Maven build results
+*/target
+
+# exclude Eclipse configuration
+.project
+.settings
+.classpath
+*/.project
+*/.settings
+*/.classpath
+
+
+# Pour intellij
+.idea/*
+*.iml
+*.ipr
+*.iws
